@@ -5,7 +5,7 @@ Staram się rozwijać pod względem ``Javy`` lub ``.NET``
 ## Projekty i ich technologie
 
 ### Java
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 
 `MotrolaScienceCup` -> Projekt tworzenia proceduralnie generowanej skóry żyrafy
 
@@ -23,6 +23,6 @@ Staram się rozwijać pod względem ``Javy`` lub ``.NET``
 `RockSeeker` -> Organizer kamieni wykorzystujący mvc
 
 ### React
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 `EleSystem` -> Frontend do symulacji pracy windy
