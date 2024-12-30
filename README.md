@@ -1,16 +1,23 @@
-## Hi there 👋
+### Cześć, jestem Dawid Poradziński 👋
 
-<!--
-**dawid-poradzinski/dawid-poradzinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student, a zarazem trener programowania dla najmłodszych.  Uwielbiam pracę nad projektami backendowymi.
+Staram się rozwijać pod względem ``Javy`` lub ``.NET``
+## Projekty i ich technologie
 
-Here are some ideas to get you started:
+### Java[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`MotrolaScienceCup` -> Projekt tworzenia proceduralnie generowanej skóry żyrafy
+
+`CinemaTicketsBooking` -> Backend do strony symulującej stronę kinową
+
+`EleSystem` -> Backend symulujący pracę windy
+
+`JavaPlugins` -> Pluginy do serwera minecraft
+
+`Tekst` -> Wydzielacz tekstu z zakodowanych napisów
+
+### .NET   [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+`RockSeeker` -> Organizer kamieni wykorzystujący mvc
+
+### React [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+`EleSystem` -> Frontend do symulacji pracy windy
