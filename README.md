@@ -26,4 +26,5 @@ Staram się rozwijać pod względem ``Javy`` lub ``.NET``
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 `EleSystem` -> Frontend do symulacji pracy windy
+
 `intel8086` -> Aplikacja symulująca komendy dla procesora intel 8086
